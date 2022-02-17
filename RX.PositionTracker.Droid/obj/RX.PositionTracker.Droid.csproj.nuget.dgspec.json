@@ -1,28 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\horte\\source\\repos\\xamarin.android.positiontracker-master\\RX.PositionTracker.Droid\\RX.PositionTracker.Droid.csproj": {}
+    "E:\\source\\repos\\Bugs-B-nnig\\RX.PositionTracker.Droid\\RX.PositionTracker.Droid.csproj": {}
   },
   "projects": {
-    "C:\\Users\\horte\\source\\repos\\xamarin.android.positiontracker-master\\RX.PositionTracker.Droid\\RX.PositionTracker.Droid.csproj": {
+    "E:\\source\\repos\\Bugs-B-nnig\\RX.PositionTracker.Droid\\RX.PositionTracker.Droid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\horte\\source\\repos\\xamarin.android.positiontracker-master\\RX.PositionTracker.Droid\\RX.PositionTracker.Droid.csproj",
+        "projectUniqueName": "E:\\source\\repos\\Bugs-B-nnig\\RX.PositionTracker.Droid\\RX.PositionTracker.Droid.csproj",
         "projectName": "RX.PositionTracker.Droid",
-        "projectPath": "C:\\Users\\horte\\source\\repos\\xamarin.android.positiontracker-master\\RX.PositionTracker.Droid\\RX.PositionTracker.Droid.csproj",
-        "packagesPath": "C:\\Users\\horte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\horte\\source\\repos\\xamarin.android.positiontracker-master\\RX.PositionTracker.Droid\\obj\\",
+        "projectPath": "E:\\source\\repos\\Bugs-B-nnig\\RX.PositionTracker.Droid\\RX.PositionTracker.Droid.csproj",
+        "packagesPath": "C:\\Users\\UFO\\.nuget\\packages\\",
+        "outputPath": "E:\\source\\repos\\Bugs-B-nnig\\RX.PositionTracker.Droid\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\horte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\UFO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "monoandroid11.0"

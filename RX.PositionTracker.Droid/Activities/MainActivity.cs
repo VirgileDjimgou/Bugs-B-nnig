@@ -33,6 +33,7 @@ namespace RX.PositionTracker.Droid
         LinearLayout selectorDeviceInfoTab;
         LinearLayout layoutTabSelectors;
         LinearLayout layoutTabs;
+        LinearLayout _testLayout;
         Button buttonCurrentValuesTab;
         Button buttonDeviceInfoTab;
         FloatingActionButton fabInfo;
@@ -97,7 +98,7 @@ namespace RX.PositionTracker.Droid
                 selectorDeviceInfoTab.Visibility = ViewStates.Invisible;
 
                 ShowFragment(PartialType.CurrentValues);
-            };
+            }; 
 
             buttonDeviceInfoTab.Click += delegate
             {
@@ -137,6 +138,12 @@ namespace RX.PositionTracker.Droid
             }
         }
 
+        public void AwaitFunction(String ValToIntegrate)
+        {
+            if (IsFinishing) { return; }
+
+        }
+
         void RegisterDevice()
         {
             if (!SessionManager.IMEI.HasValue)
@@ -174,9 +181,12 @@ namespace RX.PositionTracker.Droid
 
         private void FabOnClick(object sender, EventArgs eventArgs)
         {
+            
             View view = (View)sender;
-            Snackbar.Make(view, "Contact us at dev@ryxol.com", Snackbar.LengthLong)
+            Snackbar.Make(view, "Contact me at djimgoupat@yahoo.fr", Snackbar.LengthLong)
                 .SetAction("Action", (Android.Views.View.IOnClickListener)null).Show();
+            
+
         }
 
         public void StartTracking()

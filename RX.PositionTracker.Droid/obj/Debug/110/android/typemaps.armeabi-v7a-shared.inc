@@ -62262,13 +62262,13 @@
 	.section	.rodata.managed_type_name.2477,"aMS",%progbits,1
 	.type	.L.managed_type_name.2477, %object
 .L.managed_type_name.2477:
-	.asciz	"Android.OS.AsyncTaskInvoker, Mono.Android"
-	.size	.L.managed_type_name.2477, 42
+	.asciz	"Android.OS.AsyncTask, Mono.Android"
+	.size	.L.managed_type_name.2477, 35
 	.section	.rodata.managed_type_name.2478,"aMS",%progbits,1
 	.type	.L.managed_type_name.2478, %object
 .L.managed_type_name.2478:
-	.asciz	"Android.OS.AsyncTask`3, Mono.Android"
-	.size	.L.managed_type_name.2478, 37
+	.asciz	"Android.OS.AsyncTaskInvoker, Mono.Android"
+	.size	.L.managed_type_name.2478, 42
 	.section	.rodata.managed_type_name.2479,"aMS",%progbits,1
 	.type	.L.managed_type_name.2479, %object
 .L.managed_type_name.2479:
@@ -77592,13 +77592,13 @@
 	.section	.rodata.managed_type_name.5543,"aMS",%progbits,1
 	.type	.L.managed_type_name.5543, %object
 .L.managed_type_name.5543:
-	.asciz	"Android.Widget.BaseAdapterInvoker, Mono.Android"
-	.size	.L.managed_type_name.5543, 48
+	.asciz	"Android.Widget.BaseAdapter, Mono.Android"
+	.size	.L.managed_type_name.5543, 41
 	.section	.rodata.managed_type_name.5544,"aMS",%progbits,1
 	.type	.L.managed_type_name.5544, %object
 .L.managed_type_name.5544:
-	.asciz	"Android.Widget.BaseAdapter`1, Mono.Android"
-	.size	.L.managed_type_name.5544, 43
+	.asciz	"Android.Widget.BaseAdapterInvoker, Mono.Android"
+	.size	.L.managed_type_name.5544, 48
 	.section	.rodata.managed_type_name.5545,"aMS",%progbits,1
 	.type	.L.managed_type_name.5545, %object
 .L.managed_type_name.5545:

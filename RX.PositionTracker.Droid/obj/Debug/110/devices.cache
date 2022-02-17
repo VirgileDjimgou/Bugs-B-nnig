@@ -1,1 +1,1 @@
-<Devices><Device id="9WVDU19315003584"><ResultingAbi>arm64-v8a</ResultingAbi><SdkVersion>28</SdkVersion></Device><Device id="ad091603502d550c04"><ResultingAbi>arm64-v8a</ResultingAbi><SdkVersion>26</SdkVersion></Device></Devices>
+<Devices><Device id="9WVDU19315003584"><ResultingAbi>arm64-v8a</ResultingAbi><ToolsAbi /><SdkVersion>28</SdkVersion><LongOutput>product:ANE-LX1;model:ANE_LX1;device:HWANE;transport_id:4</LongOutput></Device></Devices>

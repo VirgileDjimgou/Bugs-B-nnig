@@ -1,8 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <PropertyGroup>
-    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
-  </PropertyGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)xamarin.build.download\0.4.9\build\Xamarin.Build.Download.targets" Condition="Exists('$(NuGetPackageRoot)xamarin.build.download\0.4.9\build\Xamarin.Build.Download.targets')" />
     <Import Project="$(NuGetPackageRoot)xamarin.android.support.annotations\27.0.2.1\build\MonoAndroid81\Xamarin.Android.Support.Annotations.targets" Condition="Exists('$(NuGetPackageRoot)xamarin.android.support.annotations\27.0.2.1\build\MonoAndroid81\Xamarin.Android.Support.Annotations.targets')" />
