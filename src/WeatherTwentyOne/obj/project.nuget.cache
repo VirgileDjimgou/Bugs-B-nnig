@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jzI9DfE6tksVZnzizYf4wRnW1qYnbSO8w7MhoPaF4Wmb5QUSLdJnZnujJwzW4l8/EMpwgZbAJim4gt5uxrmzsQ==",
+  "dgSpecHash": "f8Do9Iyqv1E7ujuvcYmjXZQWxh1aSZQSKOovhICDPKr1+k6wXjKAj2ZK+peB4qQdNqjD4Vl5dsMeFlQlCvf7sw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\UFO\\source\\repos\\WeatherTwentyOne\\src\\WeatherTwentyOne\\WeatherTwentyOne.csproj",
+  "projectFilePath": "C:\\Users\\UFO\\source\\repos\\Bugs-B-nnig\\src\\WeatherTwentyOne\\MAUI-BugsBönnig.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\UFO\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\UFO\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",

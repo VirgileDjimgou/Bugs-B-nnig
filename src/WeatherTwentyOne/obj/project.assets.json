@@ -22283,11 +22283,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\UFO\\Source\\Repos\\WeatherTwentyOne\\src\\WeatherTwentyOne\\WeatherTwentyOne.csproj",
-      "projectName": "WeatherTwentyOne",
-      "projectPath": "C:\\Users\\UFO\\Source\\Repos\\WeatherTwentyOne\\src\\WeatherTwentyOne\\WeatherTwentyOne.csproj",
+      "projectUniqueName": "C:\\Users\\UFO\\source\\repos\\Bugs-B-nnig\\src\\WeatherTwentyOne\\MAUI-BugsBönnig.csproj",
+      "projectName": "MAUI-BugsBönnig",
+      "projectPath": "C:\\Users\\UFO\\source\\repos\\Bugs-B-nnig\\src\\WeatherTwentyOne\\MAUI-BugsBönnig.csproj",
       "packagesPath": "C:\\Users\\UFO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\UFO\\Source\\Repos\\WeatherTwentyOne\\src\\WeatherTwentyOne\\obj\\",
+      "outputPath": "C:\\Users\\UFO\\source\\repos\\Bugs-B-nnig\\src\\WeatherTwentyOne\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
