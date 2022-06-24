@@ -1,0 +1,1 @@
+C:\Users\UFO\Source\Repos\WeatherTwentyOne\src\WeatherTwentyOne\WeatherTwentyOne.csproj;x64
